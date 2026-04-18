@@ -1,0 +1,12 @@
+<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="send-square">
+<path id="Vector" d="M13.5 33H22.5C30 33 33 30 33 22.5V13.5C33 6 30 3 22.5 3H13.5C6 3 3 6 3 13.5V22.5C3 30 6 33 13.5 33Z" stroke="var(--stroke-0, white)" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="Group">
+<path id="Vector_2" d="M13.5 14.265L18 9.76499L22.5 14.265" stroke="var(--stroke-0, white)" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M18 9.76499V21.765" stroke="var(--stroke-0, white)" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path id="Vector_4" d="M9 24.765C14.835 26.715 21.165 26.715 27 24.765" stroke="var(--stroke-0, white)" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="Vector_5" opacity="0">
+</g>
+</g>
+</svg>

@@ -1,0 +1,11 @@
+<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 48.0314 22.07" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame 1707482133">
+<path id="Vector" d="M11.0052 21.57C16.8071 21.57 21.5105 16.8533 21.5105 11.035C21.5105 5.21669 16.8071 0.5 11.0052 0.5C5.20335 0.5 0.5 5.21669 0.5 11.035C0.5 16.8533 5.20335 21.57 11.0052 21.57Z" fill="var(--fill-0, white)" fill-opacity="0.2" stroke="var(--stroke-0, white)" stroke-opacity="0.3"/>
+<foreignObject x="-26.9895" y="-40" width="102.01" height="102.07"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(20px);clip-path:url(#bgblur_0_158960_32394_clip_path);height:100%;width:100%"></div></foreignObject><path id="Vector_2" data-figma-bg-blur-radius="40" d="M24.0157 21.57C29.8176 21.57 34.5209 16.8533 34.5209 11.035C34.5209 5.21669 29.8176 0.5 24.0157 0.5C18.2138 0.5 13.5105 5.21669 13.5105 11.035C13.5105 16.8533 18.2138 21.57 24.0157 21.57Z" fill="var(--fill-0, #FF6464)" fill-opacity="0.4" stroke="var(--stroke-0, #FF6464)"/>
+<foreignObject x="-13.9791" y="-40" width="102.01" height="102.07"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(20px);clip-path:url(#bgblur_1_158960_32394_clip_path);height:100%;width:100%"></div></foreignObject><path id="Vector_3" data-figma-bg-blur-radius="40" d="M37.0261 21.57C42.828 21.57 47.5314 16.8533 47.5314 11.035C47.5314 5.21669 42.828 0.5 37.0261 0.5C31.2243 0.5 26.5209 5.21669 26.5209 11.035C26.5209 16.8533 31.2243 21.57 37.0261 21.57Z" fill="var(--fill-0, #00CD88)" fill-opacity="0.32" stroke="var(--stroke-0, #00CD88)"/>
+</g>
+<defs>
+<clipPath id="bgblur_0_158960_32394_clip_path" transform="translate(26.9895 40)"><path d="M24.0157 21.57C29.8176 21.57 34.5209 16.8533 34.5209 11.035C34.5209 5.21669 29.8176 0.5 24.0157 0.5C18.2138 0.5 13.5105 5.21669 13.5105 11.035C13.5105 16.8533 18.2138 21.57 24.0157 21.57Z"/>
+</clipPath><clipPath id="bgblur_1_158960_32394_clip_path" transform="translate(13.9791 40)"><path d="M37.0261 21.57C42.828 21.57 47.5314 16.8533 47.5314 11.035C47.5314 5.21669 42.828 0.5 37.0261 0.5C31.2243 0.5 26.5209 5.21669 26.5209 11.035C26.5209 16.8533 31.2243 21.57 37.0261 21.57Z"/>
+</clipPath></defs>
+</svg>
